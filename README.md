@@ -153,4 +153,4 @@ CapeGeminiBack/
 
 
 ## Lien avec le Frontend
-Ce backend est conçu pour fonctionner avec l'application frontend Angular disponible ici :
+Ce backend est conçu pour fonctionner avec l'application frontend Angular disponible ici : https://github.com/medelmir/CapeGeminiFront
